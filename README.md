@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Gustavo Felix! 👋
-####  Sou do lado bom da força, Front end 🤣
+####  Sou do lado bom da força, Front-end 🤣
 ####  Estudando React Native e TypeScript 👨‍💻
 
  <div>
